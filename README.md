@@ -62,91 +62,91 @@ Below is an overview of leading cloud-hosted commercial meeting platforms, sorte
 Self-hostable, community-driven video conferencing software and WebRTC infrastructure. All listed repositories are genuinely open-source and sorted in descending order by GitHub stargazers count:
 
 ### 1. [Jitsi Meet](https://github.com/jitsi/jitsi-meet) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
 - **Tech Stack:** Java, JavaScript, React, WebRTC 🛠️
 - **License:** Apache-2.0 📜
 - **Overview:** The undisputed gold standard of open-source video meetings. Provides frictionless 1-click meeting links in any browser with zero client downloads. Features include HD audio/video, screen sharing, lobby security mode, end-to-end encryption (E2EE), chat, and recording capabilities via Jibri.
 - **Best For:** Self-hosted enterprise and community Zoom replacements prioritizing data sovereignty.
 
 ### 2. [LiveKit](https://github.com/livekit/livekit) ⚡
-[![GitHub stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
 - **Tech Stack:** Go, WebRTC, Rust, TypeScript 🛠️
 - **License:** Apache-2.0 📜
 - **Overview:** Modern, ultra-scalable WebRTC infrastructure and SFU designed to power interactive video, audio, and multimodal AI voice agents. Offers multi-platform client SDKs (Web, iOS, Android, Flutter, React Native, Unity) and ecosystem modules for recording (Egress) and streaming (Ingress).
 - **Best For:** Developers architecting real-time video conferencing, AI audio agents, or telehealth apps.
 
 ### 3. [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) 🎓
-[![GitHub stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers)  
 - **Tech Stack:** Java, JavaScript, Scala, WebRTC 🛠️
 - **License:** LGPL-3.0 📜
 - **Overview:** Purpose-built virtual classroom and webinar system engineered specifically for online learning. Deeply integrates multi-user whiteboards, presentation slide uploads with server-side vectorization, timed breakout rooms, live emoji polling, and LMS integrations (Moodle, Canvas, Blackboard).
 - **Best For:** Schools, universities, academic institutions, and corporate training academies.
 
 ### 4. [Janus WebRTC Server](https://github.com/meetecho/janus-gateway) 🔌
-[![GitHub stars](https://img.shields.io/github/stars/meetecho/janus-gateway?style=social&color=white)](https://github.com/meetecho/janus-gateway/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/meetecho/janus-gateway?style=social&color=white)](https://github.com/meetecho/janus-gateway/stargazers)  
 - **Tech Stack:** C, WebRTC 🛠️
 - **License:** GPL-3.0 📜
 - **Overview:** A battle-tested general-purpose WebRTC server by Meetecho designed as a lightweight C core that delegates meeting routing, SIP gateways, audio bridges, and video rooms to a versatile C plugin architecture.
 - **Best For:** High-throughput media routing, telecommunications bridging, and custom WebRTC streaming.
 
 ### 5. [mediasoup](https://github.com/versatica/mediasoup) 🚀
-[![GitHub stars](https://img.shields.io/github/stars/versatica/mediasoup?style=social&color=white)](https://github.com/versatica/mediasoup/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/versatica/mediasoup?style=social&color=white)](https://github.com/versatica/mediasoup/stargazers)  
 - **Tech Stack:** C++, TypeScript, Node.js, Rust 🛠️
 - **License:** ISC 📜
 - **Overview:** Cutting-edge, low-level Selective Forwarding Unit (SFU) library that runs as a Node.js/Rust worker with high-performance C++ media threads. Enables fine-grained piping of RTP audio/video streams with minimal memory overhead.
 - **Best For:** Engineering custom, high-concurrency multi-party video conferencing architectures.
 
 ### 6. [MiroTalk](https://github.com/miroslavpejic85/mirotalk) 💬
-[![GitHub stars](https://img.shields.io/github/stars/miroslavpejic85/mirotalk?style=social&color=white)](https://github.com/miroslavpejic85/mirotalk/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/miroslavpejic85/mirotalk?style=social&color=white)](https://github.com/miroslavpejic85/mirotalk/stargazers)  
 - **Tech Stack:** JavaScript, Node.js, WebRTC 🛠️
 - **License:** AGPL-3.0 📜
 - **Overview:** A sleek, fully featured suite of real-time video conferencing variants including MiroTalk P2P (mesh calls up to 4K 60fps), MiroTalk SFU (mediasoup-based scalable rooms), and MiroTalk C2C (instant embeddable iframe cam-to-cam widgets).
 - **Best For:** Teams wanting lightweight, clean, and easily embeddable self-hosted video meeting rooms.
 
 ### 7. [Ant Media Server](https://github.com/ant-media/Ant-Media-Server) 📡
-[![GitHub stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)  
 - **Tech Stack:** Java, C++, WebRTC 🛠️
 - **License:** Apache-2.0 (Community Edition) 📜
 - **Overview:** Ultra-low latency streaming and interactive video engine (~0.5s latency) supporting WebRTC, CMAF, HLS, RTMP, and RTSP with adaptive bitrate streaming, video recording, and auto-scaling support.
 - **Best For:** Interactive live broadcasts, large-scale webinars, and ultra-low-latency interactive conferences.
 
 ### 8. [OpenVidu](https://github.com/OpenVidu/openvidu) 🧩
-[![GitHub stars](https://img.shields.io/github/stars/OpenVidu/openvidu?style=social&color=white)](https://github.com/OpenVidu/openvidu/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/OpenVidu/openvidu?style=social&color=white)](https://github.com/OpenVidu/openvidu/stargazers)  
 - **Tech Stack:** TypeScript, Java, Go, WebRTC 🛠️
 - **License:** Apache-2.0 📜
 - **Overview:** A complete developer platform for integrating high-quality video calling into web and mobile apps. OpenVidu v3 builds on modern media engines to deliver seamless multi-party rooms, screen sharing, recording, and moderation APIs.
 - **Best For:** Developers desiring a simple, developer-friendly abstraction layer over raw WebRTC infrastructure.
 
 ### 9. [Galène](https://github.com/jech/galene) 🍃
-[![GitHub stars](https://img.shields.io/github/stars/jech/galene?style=social&color=white)](https://github.com/jech/galene/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/jech/galene?style=social&color=white)](https://github.com/jech/galene/stargazers)  
 - **Tech Stack:** Go 🛠️
 - **License:** MIT 📜
 - **Overview:** Ultra-lightweight SFU server developed at Université de Paris engineered for extreme CPU efficiency. Capable of handling over 100 concurrent student video streams on just a 0.25 vCPU core without transcoding.
 - **Best For:** Homelab hosts, low-resource VPS environments, and schools running lectures on budget hardware.
 
 ### 10. [EduMeet](https://github.com/edumeet/edumeet) 🧑‍🏫
-[![GitHub stars](https://img.shields.io/github/stars/edumeet/edumeet?style=social&color=white)](https://github.com/edumeet/edumeet/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/edumeet/edumeet?style=social&color=white)](https://github.com/edumeet/edumeet/stargazers)  
 - **Tech Stack:** Node.js, TypeScript, React, mediasoup 🛠️
 - **License:** MIT 📜
 - **Overview:** An open-source, web-based multiparticipant videoconferencing solution developed within European research networks (GÉANT). Features shared whiteboards, file sharing, breakout rooms, and federated institutional authentication.
 - **Best For:** Academic consortia, research organizations, and open education initiatives.
 
 ### 11. [Element Call](https://github.com/element-hq/element-call) 🔒
-[![GitHub stars](https://img.shields.io/github/stars/element-hq/element-call?style=social&color=white)](https://github.com/element-hq/element-call/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/element-hq/element-call?style=social&color=white)](https://github.com/element-hq/element-call/stargazers)  
 - **Tech Stack:** TypeScript, React, Matrix WebRTC SFU 🛠️
 - **License:** AGPL-3.0 📜
 - **Overview:** Next-generation decentralized, native WebRTC calling powered entirely by the Matrix protocol. Features end-to-end encryption for multi-party group calls, eliminating centralized proprietary telephony silos.
 - **Best For:** Privacy-first organizations and decentralized Matrix chat/collaboration networks.
 
 ### 12. [Apache OpenMeetings](https://github.com/apache/openmeetings) 🏛️
-[![GitHub stars](https://img.shields.io/github/stars/apache/openmeetings) ](https://github.com/apache/openmeetings/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/apache/openmeetings) ](https://github.com/apache/openmeetings/stargazers)  
 - **Tech Stack:** Java, Wicket, WebRTC 🛠️
 - **License:** Apache-2.0 📜
 - **Overview:** A veteran Apache foundation project providing full groupware collaboration, virtual meeting rooms, multi-whiteboard workspaces, document sharing/editing, user management, and fine-grained room moderation.
 - **Best For:** Enterprise setups requiring Apache governance and collaborative document presentation.
 
 ### 13. [plugNmeet](https://github.com/mynaparrot/plugNmeet-server) 🔌
-[![GitHub stars](https://img.shields.io/github/stars/mynaparrot/plugNmeet-server?style=social&color=white)](https://github.com/mynaparrot/plugNmeet-server/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mynaparrot/plugNmeet-server?style=social&color=white)](https://github.com/mynaparrot/plugNmeet-server/stargazers)  
 - **Tech Stack:** Go, React, TypeScript, LiveKit 🛠️
 - **License:** MIT 📜
 - **Overview:** A customizable, high-performance web conferencing system built on Go and LiveKit. Features whiteboard drawing, breakout rooms, live polling, RTMP streaming to YouTube/Facebook, and integrated AI meeting translation and summarization.
