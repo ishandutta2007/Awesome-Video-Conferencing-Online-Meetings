@@ -8,10 +8,13 @@
   <strong>A curated directory of top Video Conferencing and Online Meeting platforms — featuring enterprise SaaS solutions, open-source WebRTC media servers, SFUs, and developer SDKs.</strong>
 </p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Diccord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Video-Conferencing-Online-Meetings/blob/main/CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![WebRTC](https://img.shields.io/badge/Tech-WebRTC%20%7C%20SFU%20%7C%20MCU-orange.svg)](#-open-source-software)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 </div>
 
@@ -23,6 +26,8 @@
 - [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
 - [💻 Open-Source Software](#-open-source-software)
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -173,6 +178,30 @@ Self-hostable, community-driven video conferencing software and WebRTC infrastru
 | **Element Call** | Open-Source (AGPL-3.0) | ❌ No | ✅ Native E2EE | ✅ Yes | Decentralized Matrix-native secure calls |
 | **OpenMeetings** | Open-Source (Apache-2.0) | ❌ No | ❌ TLS-only | ✅ Yes | Apache-backed document sharing and meetings |
 | **plugNmeet** | Open-Source (MIT) | ✅ Built-in | ✅ Supported | ✅ Yes | Interactive webinars with AI transcription |
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for taking the time to explore this curated directory! 🌟 
+
+If you found this repository useful, please consider supporting the project:
+- ⭐ **Star** this repository to show your appreciation and help more people discover it
+- 🍴 **Fork** and contribute with your own favorite tools, updates, and corrections
+- 📢 **Share** this collection with your colleagues, engineering teams, and community
+- ☕ **Buy me a coffee**: You can support ongoing maintenance and new curated resources via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+<div align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</div>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Video-Conferencing-Online-Meetings&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Video-Conferencing-Online-Meetings&type=date&legend=top-left)
 
 ---
 
